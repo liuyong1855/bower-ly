@@ -1,0 +1,23 @@
+{
+  "name": "bower-ly",
+  "version": "1.0.0",
+  "authors": [
+    "刘勇 <liuyong1855@163.com>"
+  ],
+  "description": "ly-test",
+  "keywords": [
+    "123456"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "d3": "~3.5.5"
+  }
+}
